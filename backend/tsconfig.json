@@ -6,6 +6,7 @@
     "strict": true,
     "noImplicitAny": false,
     "moduleResolution": "node",
+    "ignoreDeprecations": "6.0",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "esModuleInterop": true,
